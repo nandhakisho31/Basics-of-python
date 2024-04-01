@@ -1,7 +1,7 @@
 #variables (strings, int, boolan)
-Patient_name = "John smith"
+Patient_name = "Nandha Kishore"
 print (Patient_name)
-age = 20
+age = 17
 is_new = True
 print (is_new)
 print ("age =", age)
